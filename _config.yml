@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:
 github_username:
 facebook_username:
-jianshu_username:   
+jianshu_username:
 #twitter_username:   qiubaiying
 
 
@@ -100,10 +100,10 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: ""
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com"
     },{
         title: "Apple",
         href: "https://apple.com"
